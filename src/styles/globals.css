@@ -105,3 +105,15 @@ a {
     color-scheme: dark;
   }
 }
+
+button {
+  width: 100%;
+  padding: 10px 20px;
+  margin: 10px 0;
+}
+
+#payment-details {
+  width: 100%;
+  margin: 100px 0;
+  text-align: center;
+}
